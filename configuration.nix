@@ -88,7 +88,7 @@
   # List packages installed in system profile. To search, run:
   # $ nix search wget
   environment.systemPackages = with pkgs; [
- htop gitkraken qbittorrent vlc gnome.gnome-tweaks git vim wget firefox zsh discord spotify neofetch
+ cmake gcc sublime4 htop gitkraken qbittorrent vlc gnome.gnome-tweaks git vim wget firefox zsh discord spotify neofetch
    ];
 
   # Some programs need SUID wrappers, can be configured further or are

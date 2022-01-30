@@ -9,5 +9,9 @@ Currently, this includes :
 - Vim
 - Gnome-tweaks
 - QBittorrent
+- Cmake
+- GCC
+- HTOP
+- Sublime Text 4
 
 This repos will be updated each time I update my conf.
